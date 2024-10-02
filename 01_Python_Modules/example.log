@@ -1,0 +1,17 @@
+2024-10-02 17:28:07,628 - DEBUG - This is a debug message
+2024-10-02 17:28:07,628 - INFO - This is an info message
+2024-10-02 17:28:07,628 - WARNING - This is a warning message
+2024-10-02 17:28:07,628 - ERROR - This is an error message
+2024-10-02 17:28:07,628 - CRITICAL - This is a critical message
+2024-10-02 17:28:12,923 - DEBUG - This is a debug message
+2024-10-02 17:28:12,923 - INFO - This is an info message
+2024-10-02 17:28:12,923 - WARNING - This is a warning message
+2024-10-02 17:28:12,923 - ERROR - This is an error message
+2024-10-02 17:28:12,923 - CRITICAL - This is a critical message
+2024-10-02 17:28:17,277 - DEBUG - This is a debug message
+2024-10-02 17:28:17,277 - INFO - This is an info message
+2024-10-02 17:28:17,277 - WARNING - This is a warning message
+2024-10-02 17:28:17,283 - ERROR - This is an error message
+2024-10-02 17:28:17,283 - CRITICAL - This is a critical message
+2024-10-02 17:29:57,562 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-10-02 17:29:57,562 - INFO - NumExpr defaulting to 8 threads.
