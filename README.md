@@ -1,5 +1,5 @@
 # PythonLibrariesExecution
-# **Python Automation and Network Protocols - Jupyter Notebook Examples
+# **Python Automation and Network Protocols - Jupyter Notebook Examples**
 
 This repository contains a comprehensive set of Python examples for various network protocol automations and process automations. All examples have been executed and tested in a Jupyter Notebook environment. However, some functionalities may only show output in a terminal and cannot be fully demonstrated within the notebook. 
 
